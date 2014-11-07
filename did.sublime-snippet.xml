@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div id="${1:id}">
+	
+	
+	
+</div><!-- FIM ID ${1}-->
+]]></content>
+    <tabTrigger>did</tabTrigger>
+        <scope>text.html</scope>
+    <description>Div with ID comment</description>
+</snippet>
+
+<!--Create by:Jonathan Reis dos Santos &&
+			  Rodrigo Mansho		   &&
+			  Emilio ...
+-->
